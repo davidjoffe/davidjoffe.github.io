@@ -157,10 +157,10 @@ If AI is to be useful in medicine and longevity research, it must first be used 
 ## Further reading & tools
 
 - RunAI Studio - professional AI orchestration for parallel exploration  
-  https://djoffe.com/runai-studio
+  [https://djoffe.com/runai-studio](djoffe.com/runai-studio)
 
 - Software and research tooling by David Joffe  
-  https://djoffe.com
+  [https://djoffe.com](djoffe.com)
 
 ---
 
