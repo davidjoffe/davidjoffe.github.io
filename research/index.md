@@ -13,6 +13,10 @@ Multiple interacting biological pathways, incomplete models, conflicting evidenc
 
 This page explores how modern AI systems can be used **not as oracles**, but as **exploratory and comparative tools** to help humans reason more clearly about complex disease and longevity.
 
+![RunAI Studio Longevity acceleration platform explorations](../media/longevity-runai-studio.png)
+
+![Concept Mockup](../media/concept-mockup-longevity-molecular-sim.png)
+
 ---
 
 ## Different motivations, shared biology
